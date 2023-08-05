@@ -33,7 +33,7 @@ void main() {
                   ),
                 ),
                 TextSpan(
-                  text: ('\t\tShaping"skills" for"scaling higher"...!!'),
+                  text: ('\t\tShaping "skills" for "scaling higher"...!!'),
                   style: TextStyle(
                     fontSize: 20,
                     color: Colors.red,
